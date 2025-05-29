@@ -105,3 +105,11 @@ Este é um exemplo de colaboração em tempo real. Vamos praticar a inserção d
 Você agora sabe como **inserir links úteis**, **comentar trechos do texto** e **colaborar com colegas** em tempo real. Isso torna o Google Documentos uma ferramenta poderosa para trabalho em grupo e revisões.
 
 Na próxima aula, aprenderemos a trabalhar com **Títulos e Subtítulos usando Estilos de Parágrafo** para estruturar melhor o conteúdo.
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 09 – Inserindo Tabelas](./aula-09.md) |
+| Atual | [Aula 10 – Inserindo Links, Comentários e Colaboração em Tempo Real](./aula-10.md) |
+| ➡️ Próxima | [Aula 11 – Trabalhando com Títulos e Subtítulos (Estilos de Parágrafo)](./aula-11.md) |

@@ -103,3 +103,11 @@ O Google Documentos é uma ferramenta gratuita que facilita a criação de texto
 Você aprendeu a **dominar o básico da digitação e os atalhos mais úteis** para escrever bem e com agilidade no Google Documentos. Esses comandos são como **superpoderes de escrita** — quanto mais você usar, mais rápido e eficiente será sua produção textual.
 
 Na próxima aula, aprenderemos a **formatar seus textos com estilo**, ajustando fontes, cores e parágrafos!
+
+--- 
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula XX – Nome da Aula Anterior](./aula-XX.md) |
+| Atual | [Aula YY – Nome da Aula Atual](./aula-YY.md) |
+| ➡️ Próxima | [Aula ZZ – Nome da Aula Seguinte](./aula-ZZ.md) |

@@ -106,3 +106,11 @@ A tabela abaixo mostra o desempenho de três disciplinas escolares com notas sim
 Agora você aprendeu a criar, editar e personalizar tabelas no Google Documentos. Com isso, pode organizar informações com muito mais clareza e profissionalismo.
 
 Na próxima aula, aprenderemos a **inserir links, comentários e colaborar em tempo real com colegas**!
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 08 – Configurações de Página (margens, orientação, tamanho)](./aula-08.md) |
+| Atual | [Aula 09 – Inserindo Tabelas](./aula-09.md) |
+| ➡️ Próxima | [Aula 10 – Inserindo Links, Comentários e Colaboração em Tempo Real](./aula-10.md) |

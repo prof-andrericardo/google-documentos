@@ -106,3 +106,11 @@ O Google Documentos oferece ferramentas poderosas de formatação de texto. Com 
 Você aprendeu a **transformar a aparência do seu texto**, tornando-o mais fácil de ler e mais agradável visualmente. A formatação correta transmite organização, cuidado e profissionalismo.
 
 Na próxima aula, vamos inserir **listas numeradas e com marcadores** para organizar informações com mais clareza.
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 03 – Nome da Aula Anterior](./aula-03.md) |
+| Atual | [Aula 04 – Nome da Aula Atual](./aula-04.md) |
+| ➡️ Próxima | [Aula 05 – Nome da Aula Seguinte](./aula-05.md) |

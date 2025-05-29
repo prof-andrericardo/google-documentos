@@ -97,3 +97,11 @@ Este documento está sendo configurado com margens, orientação e tamanho corre
 Agora você sabe como configurar a página do seu documento para que ele siga as regras de apresentação mais utilizadas no ambiente escolar. Isso fará com que seus trabalhos fiquem mais organizados e prontos para serem entregues ou impressos corretamente.
 
 Na próxima aula, aprenderemos a **inserir e editar tabelas** no Google Documentos!
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 07 – Cabeçalho, Rodapé e Numeração de Páginas](./aula-07.md) |
+| Atual | [Aula 08 – Configurações de Página (margens, orientação, tamanho)](./aula-08.md) |
+| ➡️ Próxima | [Aula 09 – Inserindo Tabelas](./aula-09.md) |

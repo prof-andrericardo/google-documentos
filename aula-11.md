@@ -97,3 +97,19 @@ Dicas Avançadas
 Com os estilos de parágrafo, você organiza melhor seu texto e prepara o documento para recursos avançados como sumário, navegação e leitura estruturada. Essa prática é essencial em projetos escolares e documentos profissionais.
 
 Na próxima aula, aprenderemos a **inserir um sumário automático** baseado nesses estilos!
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 10 – Inserindo Links, Comentários e Colaboração em Tempo Real](./aula-10.md) |
+| Atual | [Aula 11 – Trabalhando com Títulos e Subtítulos (Estilos de Parágrafo)](./aula-11.md) |
+| ➡️ Próxima | [Aula 12 – Inserindo Sumário Automático](./aula-12.md) |
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 10 – Inserindo Links, Comentários e Colaboração em Tempo Real](./aula-10.md) |
+| Atual | [Aula 11 – Trabalhando com Títulos e Subtítulos (Estilos de Parágrafo)](./aula-11.md) |
+| ➡️ Próxima | [Aula 12 – Inserindo Sumário Automático](./aula-12.md) |

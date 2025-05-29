@@ -87,3 +87,11 @@ Este documento serve para treinar o uso de cabeçalho, rodapé e numeração de 
 Você agora domina os elementos que tornam seu documento **profissional e padronizado**: cabeçalho, rodapé e numeração. Com eles, seu trabalho ganha organização e credibilidade.
 
 Na próxima aula, aprenderemos a **configurar a página**, ajustando margens, orientação e tamanho do papel.
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 06 – Inserindo Imagens e Ajustes de Posição](./aula-06.md) |
+| Atual | [Aula 07 – Cabeçalho, Rodapé e Numeração de Páginas](./aula-07.md) |
+| ➡️ Próxima | [Aula 08 – Configurações de Página (margens, orientação, tamanho)](./aula-08.md) |

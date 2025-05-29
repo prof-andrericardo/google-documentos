@@ -86,3 +86,11 @@ Texto da conclusão.
 Agora você consegue **criar e atualizar sumários automáticos** em seus documentos. Isso torna seu trabalho mais organizado, profissional e de fácil navegação.
 
 Na próxima aula, aprenderemos a usar **quebras de página** e controlar o fluxo do conteúdo dentro do documento!
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 11 – Trabalhando com Títulos e Subtítulos (Estilos de Parágrafo)](./aula-11.md) |
+| Atual | [Aula 12 – Inserindo Sumário Automático](./aula-12.md) |
+| ➡️ Próxima | [Aula 13 – Inserindo Quebra de Página e Controle de Fluxo](./aula-13.md) |

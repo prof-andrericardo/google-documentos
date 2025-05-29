@@ -76,3 +76,11 @@ Esses modelos já vêm com **formatação**, **fontes**, **cores** e **elementos
 Utilizar modelos prontos poupa tempo e ajuda a manter seus documentos **bonitos, profissionais e organizados**. Você aprendeu como selecionar, editar e até criar seus próprios templates.
 
 Na próxima aula, faremos uma **prática guiada reunindo tudo que foi aprendido nas aulas anteriores**!
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 13 – Inserindo Quebra de Página e Controle de Fluxo](./aula-13.md) |
+| Atual | [Aula 14 – Modelos de Documentos e Templates](./aula-14.md) |
+| ➡️ Próxima | [Aula 15 – Prática Guiada: Produção de Texto com Todos os Recursos Aprendidos](./aula-15.md) |

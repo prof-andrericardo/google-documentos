@@ -86,3 +86,11 @@ A conclusão deve também aparecer em uma nova página.
 Com as quebras de página, você consegue controlar como o conteúdo aparece em seu documento. Isso ajuda a criar documentos mais limpos, com capítulos bem separados e fáceis de ler.
 
 Na próxima aula, aprenderemos a **usar modelos e templates prontos** para acelerar a criação de documentos com visual profissional!
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 12 – Inserindo Sumário Automático](./aula-12.md) |
+| Atual | [Aula 13 – Inserindo Quebra de Página e Controle de Fluxo](./aula-13.md) |
+| ➡️ Próxima | [Aula 14 – Modelos de Documentos e Templates](./aula-14.md) |

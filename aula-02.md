@@ -86,3 +86,11 @@ Contém:
 ## 🎯 Conclusão da Aula
 
 Nesta aula, aprendemos que o Google Documentos possui uma interface **simples, funcional e completa**. Saber onde estão os menus e ferramentas é o primeiro passo para escrever com segurança. Nas próximas aulas vamos **aprender a dominar esses recursos um a um**.
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 01 – Introdução ao Google Documentos](./aula-01.md) |
+| Atual | [Aula 02 – Explorando a Interface do Google Documentos](./aula-02.md) |
+| ➡️ Próxima | [Aula 03 – Digitação básica e atalhos úteis](./aula-03.md) |

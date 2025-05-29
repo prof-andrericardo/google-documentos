@@ -101,3 +101,11 @@ A imagem abaixo representa um tema importante na minha vida escolar. Ela será a
 Você aprendeu a inserir e controlar **a aparência e o posicionamento de imagens** em documentos. Saber fazer isso permite compor trabalhos com mais **qualidade visual e organização**.
 
 Na próxima aula, veremos como utilizar **cabeçalhos, rodapés e inserir a numeração de páginas**.
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 05 – Listas numeradas e com marcadores](./aula-05.md) |
+| Atual | [Aula 06 – Inserindo Imagens e Ajustes de Posição](./aula-06.md) |
+| ➡️ Próxima | [Aula 07 – Cabeçalho, Rodapé e Numeração de Páginas](./aula-07.md) |

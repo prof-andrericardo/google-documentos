@@ -123,3 +123,11 @@ Lista de Materiais para Aula:
 Hoje você aprendeu a utilizar **listas numeradas** e **listas com marcadores** para organizar melhor seus textos. Esse recurso é muito útil para **instruções, listas de compras, tarefas e tópicos de estudo**.
 
 Na próxima aula, aprenderemos a **inserir imagens e ajustar sua posição no documento**.
+
+---
+
+### 📘 Navegação entre Aulas
+
+| ⬅️ Anterior | [Aula 04 – Formatação de Fonte e Parágrafo](./aula-04.md) |
+| Atual | [Aula 05 – Listas numeradas e com marcadores](./aula-05.md) |
+| ➡️ Próxima | [Aula 06 – Inserindo Imagens e Ajustes de Posição](./aula-06.md) |
