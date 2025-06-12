@@ -97,7 +97,16 @@ O Google Documentos oferece ferramentas poderosas de formatação de texto. Com 
 
 4. Crie o título: **Formatação de Texto no Google Docs** (Título 1, centralizado)
 5. Adicione seu nome no final, alinhado à direita
-6. Compartilhe com: `andre.ricardo@colegiovictorino.com.br`
+6. Entregue o documento pelo Google Sala de Aula:
+   - 6.1. Acesse o **Google Sala de Aula**.
+   - 6.2. Entre na disciplina **Informática**.
+   - 6.3. Clique na aba **Atividades**.
+   - 6.4. Localize a atividade chamada **Aula 01**.
+   - 6.6. Leia as instruções da atividade com atenção.
+   - 6.6. À direita, clique em **Adicionar ou Criar**.
+   - 6.7. Escolha a opção **Google Drive**.
+   - 6.8. Selecione o documento criado anteriormente.
+   - 6.9. Clique em **Entregar** para finalizar o envio da atividade.
 
 ---
 
