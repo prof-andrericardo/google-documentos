@@ -65,7 +65,7 @@ Você verá:
 3. Escreva um pequeno parágrafo respondendo:
 > “O que eu espero aprender com este curso de Google Documentos?”
 4. Escreva seu nome completo no final.
-5. Compartilhe com o professor: `andre.ricardo@colegiovictorino.com.br`
+5. Acesse o Google Sala de Aulas, vá até a Disciplina de Informática e clique no link acima `Atividades`, acesse as instruções da Atividade denominada de **Aula 01** e em seguida a direita na opção `adicionar ou criar`, `Google Drive` e adicione o arquivo criado e entregue a Atividade.
 
 ---
 
