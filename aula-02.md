@@ -83,7 +83,7 @@ Contém:
    - 5.1. Acesse o **Google Sala de Aula**.
    - 5.2. Entre na disciplina **Informática**.
    - 5.3. Clique na aba **Atividades**.
-   - 5.4. Localize a atividade chamada **Aula 01**.
+   - 5.4. Localize a atividade chamada **Aula 02**.
    - 5.5. Leia as instruções da atividade com atenção.
    - 5.6. À direita, clique em **Adicionar ou Criar**.
    - 5.7. Escolha a opção **Google Drive**.
