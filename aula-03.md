@@ -98,7 +98,7 @@ O Google Documentos é uma ferramenta gratuita que facilita a criação de texto
    - 7.1. Acesse o **Google Sala de Aula**.
    - 7.2. Entre na disciplina **Informática**.
    - 7.3. Clique na aba **Atividades**.
-   - 7.4. Localize a atividade chamada **Aula 01**.
+   - 7.4. Localize a atividade chamada **Aula 03**.
    - 7.5. Leia as instruções da atividade com atenção.
    - 7.6. À direita, clique em **Adicionar ou Criar**.
    - 7.7. Escolha a opção **Google Drive**.
