@@ -94,7 +94,16 @@ O Google Documentos é uma ferramenta gratuita que facilita a criação de texto
 5. Adicione uma frase com Título 2:  
    `“Eu estou aprendendo a usar o Google Documentos com mais facilidade.”`
 6. Centralize essa frase.
-7. Compartilhe com: `andre.ricardo@colegiovictorino.com.br`
+7. Entregue o documento pelo Google Sala de Aula:
+   - 7.1. Acesse o **Google Sala de Aula**.
+   - 7.2. Entre na disciplina **Informática**.
+   - 7.3. Clique na aba **Atividades**.
+   - 7.4. Localize a atividade chamada **Aula 01**.
+   - 7.5. Leia as instruções da atividade com atenção.
+   - 7.6. À direita, clique em **Adicionar ou Criar**.
+   - 7.7. Escolha a opção **Google Drive**.
+   - 7.8. Selecione o documento criado anteriormente.
+   - 7.9. Clique em **Entregar** para finalizar o envio da atividade.
 
 ---
 
