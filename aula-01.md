@@ -65,7 +65,16 @@ Você verá:
 3. Escreva um pequeno parágrafo respondendo:
 > “O que eu espero aprender com este curso de Google Documentos?”
 4. Escreva seu nome completo no final.
-5. Acesse o Google Sala de Aulas, vá até a Disciplina de Informática e clique no link acima `Atividades`, acesse as instruções da Atividade denominada de **Aula 01** e em seguida a direita na opção `adicionar ou criar`, `Google Drive` e adicione o arquivo criado e entregue a Atividade.
+5. Entregue o documento pelo Google Sala de Aula:
+   5.1. Acesse o **Google Sala de Aula**.
+   5.2. Entre na disciplina **Informática**.
+   5.3. Clique na aba **Atividades**.
+   5.4. Localize a atividade chamada **Aula 01**.
+   5.5. Leia as instruções da atividade com atenção.
+   5.6. À direita, clique em **Adicionar ou Criar**.
+   5.7. Escolha a opção **Google Drive**.
+   5.8. Selecione o documento criado anteriormente.
+   5.9. Clique em **Entregar** para finalizar o envio da atividade.
 
 ---
 
